@@ -1,6 +1,6 @@
-# english-enhancement
+# c-primer-plus
 
 
 
-> 加强英语的学习特别是口语
+> 这个repo是为了复习c语言书籍《C Primer Plus》
 
